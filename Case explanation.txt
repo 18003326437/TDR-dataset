@@ -1,0 +1,1 @@
+The large-scale case in our study is based on the TSP-D benchmark dataset proposed by Ha et al. (2018). We use this dataset to investigate the extended paradigm of the single-truck single-drone delivery mode, namely, the single-truck multi-drone scenario. The coordinates of the customer points in this dataset are adopted in our study.
